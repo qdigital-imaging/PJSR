@@ -1,2 +1,0 @@
-Copyright (C) 2013-2020, Laurent Bourgon, Philippe Bernhard and Dave Watson. 
-All Rights Reserved.
